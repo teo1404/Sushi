@@ -1,7 +1,7 @@
 // Cargar el menú desde JSON y aplicar filtros
 let dishesData = [];
 
-fetch('menu.json')
+fetch('data/jsson/menu.json')
     .then(response => response.json())
     .then(data => {
         dishesData = data.dishes;  // Guardar los datos para usar en los filtros
@@ -48,3 +48,4 @@ filterButtons.forEach(button => {
         }
     });
 });
+

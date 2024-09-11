@@ -1,22 +1,53 @@
 {
     "dishes": [
         {
-            "name": "Sopa Wantán",
-            "description": "Deliciosa sopa con wantán relleno.",
+            "name": "Empaniditas Chinas",
+            "description": "Carne y Vegetales (Veganas)",
             "category": "ENTRADAS",
-            "image": "https://drive.google.com/uc?export=view&id=IMAGE_ID_1"
+            "image": "https://i.pinimg.com/474x/70/db/61/70db619dfe25efa702c5d4430c667981.jpg"
         },
         {
-            "name": "Chow Mein",
-            "description": "Fideos chinos salteados con vegetales.",
+            "name": "Longostinos del Pacifico",
+            "description": "Langostinos envuelto en Salmon con panko y salsa sereta",
+            "category": "ENTRADAS",
+            "image": "https://d2j9trpqxd6hrn.cloudfront.net/uploads/recipe/picture/1141/langostinos_rebozados_3.webp"
+        },
+        {
+            "name": "Gyozas",
+            "description": "Empanaditas de Cerdo al vapor laquedas en salsa oriental",
+            "category": "ENTRADAS",
+            "image": "https://alicante.com.ar/wp-content/uploads/2023/12/2696_receta.jpg"
+        },
+        {
+            "name": "Yakitori",
+            "description": "Brochette de pollo",
+            "category": "ENTRADAS",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXg6Ocys0yPM8UCLSxAI3_WKOCU0jLlRB8pw&s"
+        },
+
+        {
+            "name": "Philadelpia",
+            "description": "Salmon Rosado, queso phila con sesamo tostado",
             "category": "CLASICOS",
-            "image": "https://drive.google.com/uc?export=view&id=IMAGE_ID_2"
+            "image": "https://www.clarin.com/2020/06/18/5L2oDs4Ey_0x750__1.jpg"
         },
         {
-            "name": "Pato Pekín",
-            "description": "Famoso pato asado al estilo Pekín.",
-            "category": "ESPECIALES",
-            "image": "https://drive.google.com/uc?export=view&id=IMAGE_ID_3"
+            "name": "New Yorck",
+            "description": "Salmon Rosado, palta,pepeino Japones, mas sesamo tostado",
+            "category": "CLASICOS",
+            "image": "https://sushipopimg.s3.amazonaws.com/productos/carousel/GQY27Nn9Mth8SHQsX2xmZKuz4hQtmCfk.webp"
+        },
+        {
+            "name": "BS AS",
+            "description": "Salmon Rosado, Langostinos al vapor, queso phila, palta, cubiierto con salmony salsa teri ",
+            "category": "CLASICOS",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAl-WB5hrMviOe-fSjXAGg3YvbS6eRVgGRIQ&s"
+        },
+        {
+            "name": "Futurama",
+            "description": "Lanngostinos, con panko,queso, phila saborizado,con sesamo tostado y salsa futurama",
+            "category": "CLASICOS",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZZ4QRrdxf60c8PyCZ4an_dsVm7Mb5ewnbQ&s"
         }
     ]
 }
