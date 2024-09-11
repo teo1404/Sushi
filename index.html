@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sushi y Go</title>
+    <link rel="stylesheet" href="stactic/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Inicio</a></li>
+                <li><a href="#menu">Menú</a></li>
+                <li><a href="#reservations">Reservaciones</a></li>
+                <li><a href="#contact">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <div class="welcome">
+            <h1>Bienvenido a Restaurante Chino</h1>
+            <p>Disfruta de la mejor comida tradicional china</p>
+            <button id="reservationButton">Reservar Ahora</button>
+        </div>
+        <!-- <div id="offer">
+            <h2>¡Oferta Especial! 20% de descuento en pedidos online</h2>
+            <p>Tiempo restante: <span id="countdown">00:00:00</span></p>
+        </div> -->
+    </section>
+
+    <section id="menu">
+        <h2>Nuestro Menú</h2>
+        <div id="menu-filters">
+            <button data-category="ALL">Todos</button>
+            <button data-category="ENTRADAS">Entradas</button>
+            <button data-category="CLASICOS">Clásicos</button>
+            <button data-category="ESPECIALES">Especiales</button>
+        </div>
+        <div class="dishes"></div>
+    </section>
+<!-- 
+    <section id="reservations">
+        <h2>Reservaciones</h2>
+        <form id="reservationForm">
+            <label for="name">Nombre:</label>
+            <input type="text" id="name" required>
+            <label for="date">Fecha:</label>
+            <input type="date" id="date" required>
+            <button type="submit">Reservar</button>
+        </form>
+        <p id="reservationMessage"></p>
+    </section> -->
+
+    <footer id="contact">
+        <p>Restaurante Chino - Contacto: 555-1234</p>
+    </footer>
+
+    <script src="data/scrip.js"></script>
+</body>
+</html>

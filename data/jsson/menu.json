@@ -1,0 +1,22 @@
+{
+    "dishes": [
+        {
+            "name": "Sopa Wantán",
+            "description": "Deliciosa sopa con wantán relleno.",
+            "category": "ENTRADAS",
+            "image": "https://drive.google.com/uc?export=view&id=IMAGE_ID_1"
+        },
+        {
+            "name": "Chow Mein",
+            "description": "Fideos chinos salteados con vegetales.",
+            "category": "CLASICOS",
+            "image": "https://drive.google.com/uc?export=view&id=IMAGE_ID_2"
+        },
+        {
+            "name": "Pato Pekín",
+            "description": "Famoso pato asado al estilo Pekín.",
+            "category": "ESPECIALES",
+            "image": "https://drive.google.com/uc?export=view&id=IMAGE_ID_3"
+        }
+    ]
+}
